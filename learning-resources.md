@@ -1,5 +1,5 @@
 # Learning Resources 
-<h3>Video Resources</h3>
+<h3>Videos</h3>
   <a href="https://bit.ly/2LfAvYM">Closures</a><br>
   <a href="https://bit.ly/1IzcK7R">Functional programming overview</a><br>
   <a href="https://bit.ly/2L9yzD4">Higher order functions/arrays</a><br>
