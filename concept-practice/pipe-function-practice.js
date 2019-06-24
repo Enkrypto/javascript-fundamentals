@@ -11,7 +11,7 @@ let _pipe = (a,b) => arg => b(a(arg))
 // passed as a callback to the next function to be reduced.
 let pipe = (...ops) => ops.reduce(_pipe); 
 
-// Returns a function which awaits an argument (the 'arg' parameter in the '_pipe' function.
+// Returns a function which awaits an argument (the 'arg' parameter in the '_pipe' function).
 let addDivide = pipe(addNums, divideByTwo);
 console.log(addDivide(nums));
 // Prints 50
