@@ -18,10 +18,10 @@ console.log(goldenRetriever);
 
 // Currying
 let createDog = name =>
-					breed => ({
-						name: name,
-						breed: breed
-					});
+			breed => ({
+				name: name,
+				breed: breed
+			});
 let fluffykins = createDog('fluffykins');
 let goldenRetriever = fluffykins('golden retriever');
 console.log(goldenRetriever);
