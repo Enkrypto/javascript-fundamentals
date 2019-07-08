@@ -23,5 +23,5 @@
   <a href="https://try.github.io/">Try Github (Includes various engaging and typed guides</a>
   <a href="https://classroom.udacity.com/courses/ud803">Udacity's Intro to JS course</a>
 <h3>Apps</h3>
-  <a href="https://play.google.com/store/apps/details?id=com.area120.grasshopper">Grasshopper: Learn to Code for Free (Intro to Interviewing lesson in particular.</a><br>
+  <a href="https://play.google.com/store/apps/details?id=com.area120.grasshopper">Grasshopper: Learn to Code for Free (Intro to Interviewing lesson in particular)</a><br>
   <a href="https://play.google.com/store/apps/details?id=com.sololearn">SoloLearn: Learn to Code for Free (Lesson on ES6 is lackluster, but other lessons are great for reinforcing fundamentals)</a>
