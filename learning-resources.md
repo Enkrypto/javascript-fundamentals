@@ -11,7 +11,7 @@
   <a href="https://bit.ly/31LyI5L">Array methods (how to get rid of for-loops)</a><br>
   <a href="https://bit.ly/2hDmuEs">Introduction to functional programming</a><br>
   <a href="https://bit.ly/2XpLqaV">Pipe functions</a><br>
-  <a href="https://bit.ly/2kuikmK">'Lets' versus 'Const'</a><br>
+  <a href="https://bit.ly/2kuikmK">'Let' versus 'Const'</a><br>
   <a href="https://bit.ly/2IVMrhC">What not to do with ES6 arrow functions</a><br>
   <a href="https://medium.com/tech-tajawal/regular-expressions-the-last-guide-6800283ac034">Guide to regular expressions</a><br>
   <a href="https://bit.ly/2Labmkm">Data structures</a><br>
